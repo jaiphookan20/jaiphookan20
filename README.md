@@ -19,9 +19,9 @@
 ### :woman_technologist: About Me :
 I am an aspiring Backend Developer with an interest in design & product strategy<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 I’m currently engaged in a 30 week full-time intensive programming bootcamp with Masai School and contributing to frontend and backend for building    web applications
-- 🌱 I’m currently learning Java, Spring Boot, Hibernate, Maven & AWS
-- 👨‍💻 All of my projects are available at https://jaiphookan-portfolio.vercel.app/
+- 🔭 Currently pursuing a Masters in Information Technology at the University of Melbourne, specialising in Distributed Computing
+- 🌱 I’m currently learning Java, Spring, React, NodeJs, MySQL, MongoDB and AWS
+- 👨‍💻 All of my projects are available at [https://jaiphookan-portfolio.vercel.app/](https://jai-portfolio.vercel.app/)
 - 🤔 I’m looking for help with ways to build enterprise-grade, secure backend projects
 - :zap: In my free time, I solve problems on Leetcode, HackerRank, GeeksforGeeks and read tech articles.
 - 💬 Ask me about: Product Strategy/Design
