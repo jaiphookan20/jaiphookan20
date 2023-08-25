@@ -21,7 +21,7 @@ I am an aspiring Backend Developer with an interest in design & product strategy
 
 - 🔭 Currently pursuing a Masters in Information Technology at the University of Melbourne, specialising in Distributed Computing
 - 🌱 I’m currently learning Java, Spring, React, NodeJs, MySQL, MongoDB and AWS
-- 👨‍💻 All of my projects are available at [https://jaiphookan-portfolio.vercel.app/]
+- 👨‍💻 All of my projects are available at [[https://jaiphookan-portfolio.vercel.app/]]
 - 🤔 I’m looking for help with ways to build enterprise-grade, secure backend projects
 - :zap: In my free time, I solve problems on Leetcode, HackerRank, GeeksforGeeks and read tech articles.
 - 💬 Ask me about: Product Strategy/Design
