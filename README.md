@@ -19,17 +19,14 @@
 ### :woman_technologist: About Me :
 I am an aspiring Backend Developer with an interest in design & product strategy<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 Currently pursuing a Masters in Information Technology at the University of Melbourne, specialising in Distributed Computing
-- 🌱 I’m currently learning Java, Spring, React, NodeJs, MySQL, MongoDB and AWS
-- 👨‍💻 All of my projects are available at [[https://jaiphookan-portfolio.vercel.app/]]
+- 🔭 Recently completed a Masters in Information Technology at the University of Melbourne, specialising in Distributed Computing
+- 🌱 I’m currently learning Java, Spring, Python, Typescript, React, PostgreSQL, MySQL, MongoDB and AWS
+- 👨‍💻 All of my projects are available at [https://jai-portfolio.vercel.app/]
 - 🤔 I’m looking for help with ways to build enterprise-grade, secure backend projects
 - 💬 Ask me about: Product Strategy/Design
 - 📫 How to reach me: Linkedin
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am also a novice writer and I hope to publish a book one day
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jaiphookan/)
-
+- ⚡ Fun fact: I gave up a prior career in finance & investment banking to pursue my goal of building software that can empower millions of users
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
